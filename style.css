@@ -72,7 +72,7 @@ header .navbar a
 
 .hero.is-blurred .hero__bg {
   filter: blur(3px) brightness(0.85);
-  /* O blur cria "bordas transparentes"; */
+  /* O blur da um desfoque de 3px e diminui o brilho para 85%"; */
   transform: scale(1.03);
 }
 
